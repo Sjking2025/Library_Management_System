@@ -10,7 +10,7 @@ A comprehensive web-based application for managing a library's book collection a
     *   Update existing book details.
     *   Delete books from the collection.
     *   View a list of all available books.
-*   **User Profile Management:** Users can view and update their profile information.
+*   **Admin Profile Management:** Admin can view and update their profile information.
 *   **Responsive Design:** A clean and responsive user interface built with HTML and CSS.
 
 ## 🛠️ Technologies Used
@@ -70,10 +70,6 @@ CREATE TABLE books (
 *   Deploy the project to your Apache Tomcat server.
 *   Access the application in your web browser at `http://localhost:8080/LibraryManagementSystem/`.
 
-## 📸 Screenshots
-
-*(Add screenshots of the application here to showcase the user interface and features.)*
-
 ## 🤝 How to Contribute
 
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
@@ -86,3 +82,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
 6.  Open a pull request.
 
 Please make sure to update tests as appropriate.
+
